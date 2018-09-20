@@ -1,4 +1,7 @@
 @charset "utf-8";
+@import "../../../../node_modules/bulma/sass/utilities/initial-variables";
+@import "../../../../node_modules/bulma/sass/utilities/functions";
+@import "./modules/_variables.scss";
 @import "../../../../node_modules/bulma/bulma.sass";
 
 .App {
